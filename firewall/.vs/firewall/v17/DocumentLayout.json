@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2766B2C-51D1-418E-8B63-0BB16AFE2395}|firewall-shared\\firewall-shared.csproj|c:\\users\\cyber_user\\desktop\\murus-ignis\\firewall\\firewall-shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2766B2C-51D1-418E-8B63-0BB16AFE2395}|firewall-shared\\firewall-shared.csproj|solutionrelative:firewall-shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2766B2C-51D1-418E-8B63-0BB16AFE2395}|firewall-shared\\firewall-shared.csproj|c:\\users\\cyber_user\\desktop\\murus-ignis\\firewall\\firewall-shared\\addrulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2766B2C-51D1-418E-8B63-0BB16AFE2395}|firewall-shared\\firewall-shared.csproj|solutionrelative:firewall-shared\\addrulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\firewall-shared\\Class1.cs",
-              "RelativeDocumentMoniker": "firewall-shared\\Class1.cs",
-              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\firewall-shared\\Class1.cs",
-              "RelativeToolTip": "firewall-shared\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AddRuleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\firewall-shared\\AddRuleRequest.cs",
+              "RelativeDocumentMoniker": "firewall-shared\\AddRuleRequest.cs",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\firewall-shared\\AddRuleRequest.cs",
+              "RelativeToolTip": "firewall-shared\\AddRuleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T22:22:12.824Z",
+              "WhenOpened": "2026-04-02T09:48:44.706Z",
               "EditorCaption": ""
             }
           ]

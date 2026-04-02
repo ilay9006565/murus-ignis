@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("firewall-shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94acbbf4b14756c3415bab47beeed5c18edb8603")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99214c533451534ba44a48a7b797b32bef096b4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("firewall-shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("firewall-shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
