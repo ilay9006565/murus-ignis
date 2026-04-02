@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{C2766B2C-51D1-418E-8B63-0BB16AFE2395}|firewall-shared\\firewall-shared.csproj|c:\\users\\cyber_user\\desktop\\murus-ignis\\firewall\\firewall-shared\\addrulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2766B2C-51D1-418E-8B63-0BB16AFE2395}|firewall-shared\\firewall-shared.csproj|solutionrelative:firewall-shared\\addrulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6027D211-E3FF-4280-B010-D71C028CEBC5}|ui\\ui.csproj|c:\\users\\cyber_user\\desktop\\murus-ignis\\firewall\\ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6027D211-E3FF-4280-B010-D71C028CEBC5}|ui\\ui.csproj|solutionrelative:ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6027D211-E3FF-4280-B010-D71C028CEBC5}|ui\\ui.csproj|c:\\users\\cyber_user\\desktop\\murus-ignis\\firewall\\ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6027D211-E3FF-4280-B010-D71C028CEBC5}|ui\\ui.csproj|solutionrelative:ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BC5A9B-7ECD-4860-BC46-65F8CDF22FCF}|wpf\\wpf.csproj|c:\\users\\cyber_user\\desktop\\murus-ignis\\firewall\\wpf\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BC5A9B-7ECD-4860-BC46-65F8CDF22FCF}|wpf\\wpf.csproj|solutionrelative:wpf\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A630354A-ACD2-4E2A-88BC-98F4909946A7}|core\\core.csproj|c:\\users\\cyber_user\\desktop\\murus-ignis\\firewall\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A630354A-ACD2-4E2A-88BC-98F4909946A7}|core\\core.csproj|solutionrelative:core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\ui\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ui\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\ui\\MainWindow.xaml",
+              "RelativeToolTip": "ui\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-02T21:00:38.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\ui\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ui\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\ui\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ui\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T21:00:38.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\wpf\\Class1.cs",
+              "RelativeDocumentMoniker": "wpf\\Class1.cs",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\wpf\\Class1.cs",
+              "RelativeToolTip": "wpf\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T20:58:15.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\core\\Class1.cs",
+              "RelativeDocumentMoniker": "core\\Class1.cs",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\core\\Class1.cs",
+              "RelativeToolTip": "core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T20:57:53.764Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +91,7 @@
               "RelativeDocumentMoniker": "firewall-shared\\AddRuleRequest.cs",
               "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\firewall-shared\\AddRuleRequest.cs",
               "RelativeToolTip": "firewall-shared\\AddRuleRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T09:48:44.706Z",
               "EditorCaption": ""

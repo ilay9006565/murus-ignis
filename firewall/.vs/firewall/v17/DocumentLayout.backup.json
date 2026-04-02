@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2766B2C-51D1-418E-8B63-0BB16AFE2395}|firewall-shared\\firewall-shared.csproj|c:\\users\\cyber_user\\desktop\\murus-ignis\\firewall\\firewall-shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2766B2C-51D1-418E-8B63-0BB16AFE2395}|firewall-shared\\firewall-shared.csproj|solutionrelative:firewall-shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14BC5A9B-7ECD-4860-BC46-65F8CDF22FCF}|wpf\\wpf.csproj|c:\\users\\cyber_user\\desktop\\murus-ignis\\firewall\\wpf\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BC5A9B-7ECD-4860-BC46-65F8CDF22FCF}|wpf\\wpf.csproj|solutionrelative:wpf\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A630354A-ACD2-4E2A-88BC-98F4909946A7}|core\\core.csproj|c:\\users\\cyber_user\\desktop\\murus-ignis\\firewall\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A630354A-ACD2-4E2A-88BC-98F4909946A7}|core\\core.csproj|solutionrelative:core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2766B2C-51D1-418E-8B63-0BB16AFE2395}|firewall-shared\\firewall-shared.csproj|c:\\users\\cyber_user\\desktop\\murus-ignis\\firewall\\firewall-shared\\addrulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2766B2C-51D1-418E-8B63-0BB16AFE2395}|firewall-shared\\firewall-shared.csproj|solutionrelative:firewall-shared\\addrulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +28,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\firewall-shared\\Class1.cs",
-              "RelativeDocumentMoniker": "firewall-shared\\Class1.cs",
-              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\firewall-shared\\Class1.cs",
-              "RelativeToolTip": "firewall-shared\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\wpf\\Class1.cs",
+              "RelativeDocumentMoniker": "wpf\\Class1.cs",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\wpf\\Class1.cs",
+              "RelativeToolTip": "wpf\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T22:22:12.824Z",
+              "WhenOpened": "2026-04-02T20:58:15.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\core\\Class1.cs",
+              "RelativeDocumentMoniker": "core\\Class1.cs",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\core\\Class1.cs",
+              "RelativeToolTip": "core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T20:57:53.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddRuleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\firewall-shared\\AddRuleRequest.cs",
+              "RelativeDocumentMoniker": "firewall-shared\\AddRuleRequest.cs",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\murus-ignis\\firewall\\firewall-shared\\AddRuleRequest.cs",
+              "RelativeToolTip": "firewall-shared\\AddRuleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T09:48:44.706Z",
               "EditorCaption": ""
             }
           ]
