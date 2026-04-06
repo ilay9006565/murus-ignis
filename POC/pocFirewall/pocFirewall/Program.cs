@@ -13,6 +13,16 @@ namespace pocFirewall
     {
         static void Main(string[] args)
         {
+            var rule443 = FirewallManager.Instance.CreatePortRule(
+            @"Block Port 443 - HTTPS",
+            FirewallAction.Block,
+            443,
+            FirewallProtocol.Any
+            );
+
+            rule443.Direction = FirewallDirection.Outbound; // Add this!
+
+            FirewallManager.Instance.Rules.Add(rule443);
         }
     }
 }

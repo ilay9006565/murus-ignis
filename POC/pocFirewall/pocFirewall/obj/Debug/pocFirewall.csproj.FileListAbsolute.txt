@@ -1,0 +1,10 @@
+C:\Users\Cyber_User\Desktop\murus-ignis\POC\pocFirewall\pocFirewall\bin\Debug\pocFirewall.exe.config
+C:\Users\Cyber_User\Desktop\murus-ignis\POC\pocFirewall\pocFirewall\bin\Debug\pocFirewall.exe
+C:\Users\Cyber_User\Desktop\murus-ignis\POC\pocFirewall\pocFirewall\bin\Debug\pocFirewall.pdb
+C:\Users\Cyber_User\Desktop\murus-ignis\POC\pocFirewall\pocFirewall\bin\Debug\WindowsFirewallHelper.dll
+C:\Users\Cyber_User\Desktop\murus-ignis\POC\pocFirewall\pocFirewall\bin\Debug\WindowsFirewallHelper.xml
+C:\Users\Cyber_User\Desktop\murus-ignis\POC\pocFirewall\pocFirewall\obj\Debug\pocFirewall.csproj.AssemblyReference.cache
+C:\Users\Cyber_User\Desktop\murus-ignis\POC\pocFirewall\pocFirewall\obj\Debug\pocFirewall.csproj.CoreCompileInputs.cache
+C:\Users\Cyber_User\Desktop\murus-ignis\POC\pocFirewall\pocFirewall\obj\Debug\pocFirew.29DF10A8.Up2Date
+C:\Users\Cyber_User\Desktop\murus-ignis\POC\pocFirewall\pocFirewall\obj\Debug\pocFirewall.exe
+C:\Users\Cyber_User\Desktop\murus-ignis\POC\pocFirewall\pocFirewall\obj\Debug\pocFirewall.pdb
